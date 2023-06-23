@@ -1,4 +1,4 @@
-# smart-pdf-reader-and-viewer
+# Smart PDF Reader & Viewer
 
 # Privacy Policy
 
