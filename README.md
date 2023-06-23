@@ -1,1 +1,0 @@
-# smart-pdf-reader-and-viewer
