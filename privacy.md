@@ -1,6 +1,6 @@
 # Smart PDF Reader & Viewer
 
-**Privacy Policy**
+# Privacy Policy
 
 **Effective date:** [Insert effective date]
 
